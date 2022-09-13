@@ -16,9 +16,6 @@ That being said, you need Vagrant and a Hypervisor (VirtualBox here)
 
 Refer to the wiki for more informations.
 
-## Future improvements 
-
-
 
 ## Using vagrant commands
 
